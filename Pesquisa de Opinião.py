@@ -3,7 +3,7 @@ quantidade_excelente = 0
 quantidade_ruim = 0
 
 #Numero de intrevistados
-total_entrevistados = 5
+total_entrevistados = 50
 
 #fOR QUESTIONARIO
 for i in range ( total_entrevistados):
